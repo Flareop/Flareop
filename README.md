@@ -4,7 +4,7 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=KinjalDutta&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Crafting%20solutions%20that%20really%20matter.&descSize=18&descAlignY=58&descColor=888888&animation=fadeIn)](https://github.com/Flareop)
 
 <!-- LIVE TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=false&width=600&lines=Founder+%40+Prasai+%F0%9F%9A%80;EDGE+AI;LLM;Shipping+Solutions;WEB3.)](https://github.com/Flareop)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=false&width=600&lines=Launch+With+Me+%F0%9F%9A%80;Web+Devlopement;Custom+Branding;AI+Marketting;AEO;AI+Automation;Custom+Ai+Developement;Ai+Creative+Services+Ai+Driven+Data+Analytics)](https://github.com/Flareop)
 
 <!-- SOCIAL BADGES -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Flareop&style=flat-square&color=ffffff&labelColor=0d0d0d&label=PROFILE+VIEWS)](https://github.com/Flareop)
