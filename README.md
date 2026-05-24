@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Flareop&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Crafting%20solutions%20that%20really%20matter.&descSize=18&descAlignY=58&descColor=888888&animation=fadeIn)](https://github.com/Flareop)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=KinjalDutta&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Crafting%20solutions%20that%20really%20matter.&descSize=18&descAlignY=58&descColor=888888&animation=fadeIn)](https://github.com/Flareop)
 
 <!-- LIVE TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=false&width=600&lines=Founder+%40+Prasai+%F0%9F%9A%80;AI+Prototyping+%E2%80%A2+Glassmorphism+UI+%E2%80%A2+LLM+Tooling;Turning+complex+logic+into+effortless+experiences.)](https://github.com/Flareop)
@@ -9,7 +9,7 @@
 <!-- SOCIAL BADGES -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Flareop&style=flat-square&color=ffffff&labelColor=0d0d0d&label=PROFILE+VIEWS)](https://github.com/Flareop)
 [![GitHub followers](https://img.shields.io/github/followers/Flareop?style=flat-square&color=ffffff&labelColor=0d0d0d&label=FOLLOWERS&logo=github)](https://github.com/Flareop?tab=followers)
-[![Contact](https://img.shields.io/badge/CONTACT-Let's_Talk-white?style=flat-square&labelColor=0d0d0d)](mailto:your-email@example.com)
+[![Contact](https://img.shields.io/badge/CONTACT-Let's_Talk-white?style=flat-square&labelColor=0d0d0d)](mailto:kinjaldutta13@gmail.com)
 
 </div>
 
@@ -19,9 +19,9 @@
 
 ## ◈ &nbsp; Philosophy &nbsp; ◈
 
-*"I build at the intersection of intelligence and elegance — rapid AI prototyping wrapped in glass-like, premium UI architectures. Vibe coding isn't chaos; it's velocity with taste."*
+*"AI IS JUST A TOOL AND JUST LIKE ANY TOOL ITS GREATNESS LIES WITH ITS WEILDER. CRAFTING THE FUTURE OF TOMORROW WITH THE CONSCIOUSNESS OF THE PAST."*
 
-**Founder @ Prasai** &nbsp;|&nbsp; Rapid AI Prototyping &nbsp;|&nbsp; Minimalist Design Systems
+**CO-Founder @ Prasai** &nbsp;|&nbsp; Building Scalabele Solutions that drive AWE &nbsp;|&nbsp; AI
 
 </div>
 
